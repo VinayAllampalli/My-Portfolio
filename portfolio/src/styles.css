@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif;
+    background-image: radial-gradient(circle, #343639, #373c3e, #3c4241, #424745, #4a4c48);}
+    .mat-step-text-label{
+        color:rgb(170, 235, 252)
+    
+      }
+   
+      .mat-step-header .mat-step-icon-selected, .mat-step-header .mat-step-icon-state-done, .mat-step-header .mat-step-icon-state-edit {
+        background-color: #3fb5b3;}
